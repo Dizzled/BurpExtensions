@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FlagScanner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlagScanner_jar</output-path>
+    <root id="archive" name="FlagScanner.jar">
+      <element id="module-output" name="FlagScanner" />
+    </root>
+  </artifact>
+</component>
